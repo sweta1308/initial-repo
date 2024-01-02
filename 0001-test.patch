@@ -1,0 +1,36 @@
+From 19a369123ae142ab8c8c18a199e423e82083a780 Mon Sep 17 00:00:00 2001
+From: Sweta Agarwalla <swetaagarwalla13@gmail.com>
+Date: Tue, 2 Jan 2024 18:25:36 +0530
+Subject: [PATCH] test
+
+---
+ index.html | 2 +-
+ index.js   | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/index.html b/index.html
+index f72e9f4..aca9999 100644
+--- a/index.html
++++ b/index.html
+@@ -6,7 +6,7 @@
+     <title>Document</title>
+ </head>
+ <body>
+-    <h1>Hello World</h1>
++    <h1>Hi User</h1>
+     <script src="index.js"></script>
+ </body>
+ </html>
+\ No newline at end of file
+diff --git a/index.js b/index.js
+index b8c57fe..e1a6af4 100644
+--- a/index.js
++++ b/index.js
+@@ -1 +1 @@
+-console.log("Hello World")
+\ No newline at end of file
++console.log("Hi User")
+\ No newline at end of file
+-- 
+2.38.1.windows.1
+
